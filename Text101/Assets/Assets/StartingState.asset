@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9f5cb5d1b17acee459489893eb69c622, type: 3}
-  m_Name: Starting_State
+  m_Name: StartingState
   m_EditorClassIdentifier: 
   storyText: "You wake up in small room... \r\nwith pulsating sensation on the right
     side of head and\r\nblurry vision also you can taste metallic in mouth, blood...
     probably yours...\r\n\r\nWhat should i do?\r\n\r\n1. Stand up, try to look around.\r\n2.
     Stay where you are and think about situation."
+  nextStates:
+  - {fileID: 11400000, guid: f5a089efccab51c44a5e7770142d9a5c, type: 2}
+  - {fileID: 11400000, guid: 63c2138a69b8ccb4cbf5e1738ba8c101, type: 2}
