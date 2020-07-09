@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f5cb5d1b17acee459489893eb69c622, type: 3}
+  m_Name: B2. Stay in bed
+  m_EditorClassIdentifier: 
+  storyText: "Its interesting how calm you are in this situation, After a while part
+    of your memory come back, you just realized its not your first time in this room
+    but you need more information\r\n\r\nNext step?\r\n\r\n1. Look around for more
+    clues\r\n2. Just lay down, and wait..."
+  nextStates:
+  - {fileID: 11400000, guid: 611f164b60573fc49879cf81cec2588b, type: 2}
+  - {fileID: 11400000, guid: ebeee8161d59cf54db96c415ac52a7ea, type: 2}

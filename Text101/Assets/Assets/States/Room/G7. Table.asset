@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f5cb5d1b17acee459489893eb69c622, type: 3}
+  m_Name: G7. Table
+  m_EditorClassIdentifier: 
+  storyText: "\nDesk look old but is in very good condition, its cover with some dust.
+    In the middle you can see Notebook named 'ASUS' company. \r\nOn the left you find
+    notes and pencil on it.\r\n\r\n1. Open notebook\r\n2. Open notes."
+  nextStates: []

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f5cb5d1b17acee459489893eb69c622, type: 3}
+  m_Name: A1.StartingState
+  m_EditorClassIdentifier: 
+  storyText: "You wake up in small room... \r\nwith pulsating sensation on the right
+    side of head and\r\nblurry vision also you can taste metallic in mouth, blood...
+    probably yours...\r\n\r\nWhat should i do?\r\n\r\n1. Stand up, try to look around.\r\n2.
+    Stay where you are and think about situation."
+  nextStates:
+  - {fileID: 11400000, guid: 611f164b60573fc49879cf81cec2588b, type: 2}
+  - {fileID: 11400000, guid: df7a72b5f811aec4bb348eac71f6608d, type: 2}

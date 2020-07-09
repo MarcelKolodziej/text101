@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f5cb5d1b17acee459489893eb69c622, type: 3}
+  m_Name: F6. Door
+  m_EditorClassIdentifier: 
+  storyText: "Door look very massive and its made from metal, on the right you can
+    see screen and numbers from 0 to 5 on it. You have to find combination of 6 numbers
+    to unlock the door.\r\n\r\n1. Try 012345.\r\n2. Go to the table "
+  nextStates:
+  - {fileID: 11400000, guid: 22cf0e0889bcbc8479deed91572ea02a, type: 2}
+  - {fileID: 11400000, guid: c752f3ba58d13ab4fb98dc7e1bf19578, type: 2}
