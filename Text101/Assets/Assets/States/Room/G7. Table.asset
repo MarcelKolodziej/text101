@@ -15,4 +15,6 @@ MonoBehaviour:
   storyText: "\nDesk look old but is in very good condition, its cover with some dust.
     In the middle you can see Notebook named 'ASUS' company. \r\nOn the left you find
     notes and pencil on it.\r\n\r\n1. Open notebook\r\n2. Open notes."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 4a0c098949bc3c24c82f29387c53b280, type: 2}
+  - {fileID: 11400000, guid: 4a0c098949bc3c24c82f29387c53b280, type: 2}
